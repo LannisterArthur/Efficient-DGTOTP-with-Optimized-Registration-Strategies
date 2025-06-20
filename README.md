@@ -1,7 +1,7 @@
 # Efficient DGTOTP with Optimized Registration Strategies
 
 
-This repository contains experimental implementations of two DGTOTP (Dynamic Group Time-based One-Time Password) schemes:
+This repository contains experimental implementations of two DGTOTP (Dynamic Group Time-based One-Time Passwords) schemes:
 
 - **LWDGT** – Low-Wastage DGTOTP
 - **NWDGT** – No-Wastage DGTOTP
