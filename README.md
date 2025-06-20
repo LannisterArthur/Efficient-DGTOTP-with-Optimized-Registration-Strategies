@@ -1,6 +1,5 @@
 # Efficient DGTOTP with Optimized Registration Strategies
 
-# DGTOTP Experimental Code
 
 This repository contains experimental implementations of two DGTOTP (Dynamic Group Time-based One-Time Password) schemes:
 
